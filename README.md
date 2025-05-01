@@ -1,8 +1,3 @@
-Here's a sample **README.md** you can use for your GitHub repository, combining insights from both the SQL file (`studio_ghibli.sql`) and the Jupyter Notebook (`Ghibli Studio.ipynb`):
-
----
-
-```markdown
 # 🎬 Studio Ghibli Data Analysis
 
 This repository contains a complete data analysis project centered on the legendary animation house, **Studio Ghibli**. It includes the SQL schema and queries to structure and extract data, along with a detailed Jupyter Notebook performing Exploratory Data Analysis (EDA) using Python.
